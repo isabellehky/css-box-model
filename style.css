@@ -26,9 +26,9 @@ div {
 }
 
 #jumbotron{
-margin: 30px;
-border: 2px solid black;
-padding-bottom: 200px;
-width: 1580px;
-background-image: url("./images/jumbotron-background.jpeg");
+    margin: 30px;
+    border: 2px solid black;
+    padding-bottom: 200px;
+    width: 1580px;
+    background-image: url("./images/jumbotron-background.jpeg");
 }
